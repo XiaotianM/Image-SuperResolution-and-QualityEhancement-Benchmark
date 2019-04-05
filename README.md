@@ -6,7 +6,7 @@ A collection of Image SuperResolution and Quality Ehancement Benchmark
 
 - [Deep Learning for Image Super-resolution: A Survey](https://arxiv.org/pdf/1902.06068.pdf), 2019,关于DL for SR的综述文章
 - [Meta-SR: A Magnification-Arbitrary Network for Super-Resolution](https://arxiv.org/abs/1903.00875), 2019，CVPR， face++, 针对LR input提供了任意尺度的超分模型
-- [](https://arxiv.org/abs/1904.00523), 2019, 提出了一种新的真实高分辨率数据集(未公开)，文中有数据集制作及配准算法，以及本文的Lp-kpn模型
+- [Toward Real-World Single Image Super-Resolution:A New Benchmark and A New Model](https://arxiv.org/abs/1904.00523), 2019, 提出了一种新的真实高分辨率数据集(未公开)，文中有数据集制作及配准算法，以及本文的Lp-kpn模型
 
 
 
