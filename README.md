@@ -15,6 +15,7 @@ A collection of Image SuperResolution and Quality Ehancement Benchmark
 - [Meta-SR: A Magnification-Arbitrary Network for Super-Resolution](https://arxiv.org/abs/1903.00875), CVPR 2019， face++, 针对LR input提供了任意尺度的超分模型
 - [Toward Real-World Single Image Super-Resolution:A New Benchmark and A New Model](https://arxiv.org/abs/1904.00523), CVPR 2019, 提出了一种新的真实高分辨率数据集(未公开)，文中有数据集制作及配准算法，以及本文的Lp-kpn模型
 - [Feedback Network for Image Super-Resolution](https://arxiv.org/abs/1903.09814),CVPR 2019, 类似DRCN与DRRN的基于RNN的反馈超分网络
+- [Deep network interpolation for continuous imagery effect transition](https://arxiv.org/abs/1811.10515), CVPR 2019, 对两个强相关的深度网络的参数插值，简单且有效
 
 
 
