@@ -21,7 +21,7 @@ A collection of Image SuperResolution and Quality Ehancement Benchmark
 
 ## Video Super Resolution:
 - [Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf) CVPR2016， Twitter组， 多帧视频超分辨率
-
+- [EDVR: Video Restoration with Enhanced Deformable Convolutional Networks](https://arxiv.org/abs/1905.02716v1), CVPR NTIRE2019 冠军, 商汤出品
 
 ## Image/Video Quality Enhancement:
 - [decoder-side HEVC quality enhancement with scalable convolutional neural network](http://buaamc2.net/pdf/ICME2017DecoderSide.pdf), ICME, 2017,同时处理I帧及BP帧
