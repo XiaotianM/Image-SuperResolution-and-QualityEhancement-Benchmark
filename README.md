@@ -24,7 +24,17 @@ A collection of Image SuperResolution and Quality Ehancement Benchmark
 - [TDAN: Temporally Deformable Alignment Network for Video Super-Resolution](https://arxiv.org/abs/1812.02898) 采用deformable卷积进行多帧对齐
 - [EDVR: Video Restoration with Enhanced Deformable Convolutional Networks](https://arxiv.org/abs/1905.02716v1), CVPR NTIRE2019 冠军, 商汤出品
 
+
+## HDR 
+- [Underexposed Photo Enhancement using Deep Illumination Estimation](http://jiaya.me/papers/photoenhance_cvpr19.pdf), CVPR 2019， 腾讯优图, 3种损失， 学习光照处理欠曝光图像
+
+
 ## Image/Video Quality Enhancement:
-- [decoder-side HEVC quality enhancement with scalable convolutional neural network](http://buaamc2.net/pdf/ICME2017DecoderSide.pdf), ICME, 2017,同时处理I帧及BP帧
+- [decoder-side HEVC quality enhancement with scalable convolutional neural network](http://buaamc2.net/pdf/ICME2017DecoderSide.pdf), ICME, 2017,H264压缩, 同时处理I帧及BP帧
 - [Enhancing Quality for HEVC Compressed Videos](https://arxiv.org/abs/1709.06734), 2017，同时处理I帧及BP帧,上文的期刊版
+
+## Image demosaicking
 - [Deep Joint Demosaicking and Denoising](https://groups.csail.mit.edu/graphics/demosaicnet/data/demosaic.pdf), TOG 2017， DeepJoint, 经典的demosaic文章, 并提出了制作Raw Data的方法
+
+
+
