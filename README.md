@@ -18,6 +18,9 @@ A collection of Image SuperResolution and Quality Ehancement Benchmark
 - [Deep network interpolation for continuous imagery effect transition](https://arxiv.org/abs/1811.10515), CVPR 2019, 对两个强相关的深度网络的参数插值，简单且有效
 
 
+### GAN METHODS
+- [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802), CVPR 2017， Twitter出品。 第一篇应用在SR上的GAN论文。
+- [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219), ECCV 2018, 商汤出品。 相比于SRGAN更改了下面几点，1 CNN提出了RDDB； 2.判别器提出了相对GAN； 3.VGG loss推荐取activation之前。
 
 ## Video Super Resolution:
 - [Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf) CVPR2016， Twitter组， 多帧视频超分辨率
