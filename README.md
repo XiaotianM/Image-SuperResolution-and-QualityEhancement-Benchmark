@@ -9,13 +9,15 @@ A collection of Image SuperResolution and Quality Ehancement Benchmark
 
 
 ### CNN METHODS
-- [Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network](https://arxiv.org/abs/1803.08664), ECCV 2018, 高效超分网络，CARN，其中CARN-M的计算量比SRCNN的还小，并采用recursive learning机制
-- [Zoom to Learn, Learn to Zoom](https://arxiv.org/abs/1803.06641), CVPR2018, qifeng chen组, 本文两个insight,一个是采用单反的raw data,另一个是coBi Loss.文中还提出如何去人工合成Raw Data.[[code]](https://github.com/Artifineuro/zole)
+- [Zoom to Learn, Learn to Zoom](https://arxiv.org/abs/1803.06641),[[code]](https://github.com/Artifineuro/zole) CVPR 2018, qifeng chen组, 本文两个insight,一个是采用单反的raw data,另一个是coBi Loss.文中还提出如何去人工合成Raw Data.
+- [Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform ](https://arxiv.org/pdf/1804.02815.pdf), CVPR 2018, 商汤出品, 通过图像分割网络引入先验信息， 提出SFT layer
+- [Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network](https://arxiv.org/abs/1803.08664), ECCV 2018， 高效超分网络， CARN， 其中CARN-M的计算量比SRCNN的还小，并采用recursive learning机制
 - [Deep Learning for Image Super-resolution: A Survey](https://arxiv.org/pdf/1902.06068.pdf), 2019,关于DL for SR的综述文章
 - [Meta-SR: A Magnification-Arbitrary Network for Super-Resolution](https://arxiv.org/abs/1903.00875), CVPR 2019， face++, 针对LR input提供了任意尺度的超分模型
 - [Toward Real-World Single Image Super-Resolution:A New Benchmark and A New Model](https://arxiv.org/abs/1904.00523), CVPR 2019, 提出了一种新的真实高分辨率数据集(未公开)，文中有数据集制作及配准算法，以及本文的Lp-kpn模型
 - [Feedback Network for Image Super-Resolution](https://arxiv.org/abs/1903.09814),CVPR 2019, 类似DRCN与DRRN的基于RNN的反馈超分网络
 - [Deep network interpolation for continuous imagery effect transition](https://arxiv.org/abs/1811.10515), CVPR 2019, 对两个强相关的深度网络的参数插值，简单且有效
+- [Blind Super-Resolution With Iterative Kernel Correction](https://arxiv.org/abs/1904.03377), CVPR 2019, 商汤出品， 在SFT layer的基础上通过反馈进行SR矫正
 
 
 ### GAN METHODS
